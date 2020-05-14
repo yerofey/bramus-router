@@ -414,8 +414,7 @@ class Router
             $uri = substr($uri, 0, strpos($uri, '?'));
         }
 
-        // Remove trailing slash + enforce a slash at the start
-        return '/' . trim($uri, '/');
+        return '/' . $uri;
     }
 
     /**
