@@ -1,4 +1,4 @@
-# bramus/router
+# yerofey/bramus-router
 
 [![Build Status](https://img.shields.io/travis/bramus/router.svg?style=flat-square)](http://travis-ci.org/bramus/router) [![Source](http://img.shields.io/badge/source-bramus/router-blue.svg?style=flat-square)](https://github.com/bramus/router) [![Version](https://img.shields.io/packagist/v/bramus/router.svg?style=flat-square)](https://packagist.org/packages/bramus/router) [![Downloads](https://img.shields.io/packagist/dt/bramus/router.svg?style=flat-square)](https://packagist.org/packages/bramus/router/stats) [![License](https://img.shields.io/packagist/l/bramus/router.svg?style=flat-square)](https://github.com/bramus/router/blob/master/LICENSE)
 
@@ -36,7 +36,7 @@ Built by Bram(us) Van Damme _([https://www.bram.us](https://www.bram.us))_ and [
 Installation is possible using Composer
 
 ```
-composer require yerofey/router ~1.4
+composer require yerofey/bramus-router ~1.4
 ```
 
 
